@@ -10,6 +10,12 @@
 
 本项目中很多内容可以算是我学习严伯钧老师《西方艺术课》的笔记（古典音乐部分），在此特别感谢！希望后续随着我对古典音乐的深入理解能够补充更多的内容。
 
+**GitHub项目**
 
+本站通过一个开源的GitHub项目管理资料，项目主页：https://github.com/ClassicMusicInfo/classicmusicinfo.github.com
 
+**微信公众号**
 
+本站同名微信公众号，专注古典音乐信息整理、学习与分享：
+
+![微信公众号](amWiki/images/weixin.png "古典音乐索引")
