@@ -1,2 +1,2 @@
-# classicmusic
-classic/classical music info page
+# classical music
+classical music info page
