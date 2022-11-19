@@ -1,7 +1,7 @@
 
 #### [首页](?file=home-首页)
 
-#### [古典音乐索引](?file=classicalmusic.md)
+#### [古典音乐索引](?file=classicalmusic)
 
 ##### 古典音乐入门
 - [古典音乐简史](?file=01-古典音乐入门/01-古典音乐简史 "古典音乐简史")
