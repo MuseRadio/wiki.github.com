@@ -1,14 +1,14 @@
-# 古典音乐索引
+# 灵感电台资料库
+
+> 此 Wiki 原本仅为整理古典音乐次料，现升级为[灵感电台](https://museradio.net)资料库，后续逐步添加内容。
+
+## 古典音乐索引
 
 ### - 古典音乐信息整理、学习与分享
 
 ![古典音乐索引](amWiki/images/logo.png "古典音乐信息整理、学习与分享")
 
 作为一名古典音乐爱好者，这个项目的意义在于：既是自己的音乐学习笔记，又可为其他有同样爱好的朋友提供参考。
-
-#### GitHub项目
-
-本站通过一个开源的GitHub项目管理资料，项目主页：https://github.com/ClassicMusicInfo/classicmusicinfo.github.com
 
 #### 微信公众号
 
