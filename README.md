@@ -1,2 +1,2 @@
-# classical music
-classical music info page
+# MuseRadio Wiki
+MuseRadio wiki page
